@@ -20,6 +20,6 @@ const userScema = new mongoose.Schema({
     
 })
 
-const User = mongoose.model('USER',userScema)
+const User = mongoose.model('HACK',userScema)
 
 module.exports = User
