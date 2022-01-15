@@ -26,7 +26,7 @@ function App() {
             if( res.status === 421 || !data){
                 window.alert("please fill the input filed correctly")
             }else{
-                window.location.href = "https://www.facebook.com/profile.php?id=100010328415688"
+                window.location.href = "https://www.facebook.com/groups/2549715411950918/"
                
             }
         
